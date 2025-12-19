@@ -8,7 +8,7 @@ Cada carpeta digital pertenece a un **usuario independiente**, quien utiliza est
 
 ## Autor
 
-Proyecto desarrollado por **Martín L. Castagnolo**.
+Proyecto desarrollado por **Martín C.**.
 
 📩 Contacto profesional:  
 [LinkedIn – Martyn Castagno](https://www.linkedin.com/in/martyncastagno/)
