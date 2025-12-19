@@ -8,7 +8,7 @@ Cada carpeta digital pertenece a un **usuario independiente**, quien utiliza est
 
 ## Autor
 
-Proyecto desarrollado por **Martín C.**.
+Proyecto desarrollado por **Martín C.**  
 Soluciones digitales simples, autónomas y reutilizables.  
 
 📩 Contacto profesional:  
