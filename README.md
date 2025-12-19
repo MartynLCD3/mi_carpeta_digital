@@ -1,6 +1,6 @@
-# Mi Carpeta Digital | Coleccionables
+# Mi Carpeta Digital
 
-**Mi Carpeta Digital | Coleccionables** es un proyecto pensado para centralizar, mostrar y compartir colecciones digitales de forma clara, estética y accesible.
+**Mi Carpeta Digital** es un proyecto pensado para centralizar, mostrar y compartir colecciones digitales de forma clara, estética y accesible.
 
 Cada carpeta digital pertenece a un **usuario independiente**, quien utiliza este espacio para publicar sus cartas, artículos u objetos de colección, organizados de manera visual y simple.
 
@@ -32,7 +32,7 @@ Ante cualquier inconveniente, duda o reporte relacionado con el contenido, se de
 
 ## ¿Querés tu propia carpeta digital?
 
-Si te interesa contar con tu propia **Carpeta Digital de Coleccionables**, podés comunicarte directamente conmigo a través de LinkedIn para recibir más información.
+Si te interesa contar con tu propia **Carpeta Digital**, podés comunicarte directamente conmigo a través de LinkedIn para recibir más información.
 
 ---
 
