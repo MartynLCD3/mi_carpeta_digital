@@ -10,15 +10,6 @@
     <title>Mi Carpeta Digital</title>
 </head>
 <body>
-    <div id="loader">
-        <div class="loader-content">
-            <span class="loader-title">Mi Carpeta Digital</span>
-            <div class="loader-progress">
-                <div class="loader-progress-bar"></div>
-            </div>
-            <span id="loader-percent" class="loader-percent">0%</span>
-        </div>
-    </div>
     <section class="full-banner-container">
         <div class="full-banner-inner">
             <div class="user-info-container">
@@ -28,85 +19,7 @@
                 <h4 id="user-contact" class="user-info">m@gmail.com</h4>
                 <h6 id="user-description" class="user-info">solo envíos</h6>
             </div>
-            <div class="search-container">
-                <input type="text" id="card-search" placeholder="BUSCAR" autocomplete="off" />
-            </div>
         </div>
     </section>
-    <section class="cards-container">
-        <div id="cards-row" class="cards-row"></div>
-        <span id="snackbar-container" class="snackbar-container">
-            no hay publicaciones para mostrar
-        </span>
-    </section>
-    <footer class="site-footer">
-        <div class="footer-author">
-            Desarrollado por
-            <span>
-                Martín C.
-            </span> |
-            <a href="https://www.linkedin.com/in/martyncastagno/" target="_blank" rel="noopener">
-                Contacto
-            </a> |
-            <span id="openTerms" class="terms-link">Términos y Condiciones</span>
-        </div>
-        <div class="footer-rights">
-            Mi Carpeta Digital © - Todos los derechos reservados
-        </div>
-    </footer>
-    <div id="image-modal" class="image-modal">
-        <img id="modal-img" src="" alt="">
-    </div>
-    <div id="particles-js"></div>
-    <button id="scrollTopBtn" aria-label="Volver arriba">
-        top
-    </button>
-    <button id="wishlistBtn">lista</button>
-    <div id="wishlistPanel">
-        <h4 class="wishlist-panel-title">mi lista</h4>
-        <div class="wishlist-panel-divider"></div>
-        <div class="wishlist-hint">
-            Armá tu lista y compartila con quien publica este sitio.
-            Sirve como punto de partida para consultas y negociación.
-        </div>
-        <div class="wishlist-panel-divider"></div>
-        <div id="wishlistHint" class="wishlist-hint"></div>
-        <ul id="wishlist"></ul>
-        <input type="text" id="wishlistUserName" placeholder="indica tu nombre (opcional)" autocomplete="off" />
-        <div id="wishlist-actions" class="wishlist-actions">
-            <button id="sendWhatsapp">WhatsApp</button>
-            <button id="downloadList">Descargar</button>
-            <button id="clearList">Borrar todo</button>
-        </div>
-    </div>
-    <div id="termsOverlay" class="terms-overlay">
-        <div class="terms-modal">
-            <button class="terms-close" aria-label="Cerrar">✕</button>
-            <h2>Términos y Condiciones</h2>
-            <div class="terms-content">
-                <p>
-                    Este sitio funciona como una vitrina digital para la publicación de
-                    productos y la generación de contactos entre usuarios.
-                </p>
-                <p>
-                    El contenido publicado (imágenes, descripciones, precios y datos de
-                    contacto) es responsabilidad exclusiva de la persona que lo carga.
-                </p>
-                <p>
-                    El desarrollador de esta plataforma no participa en las transacciones,
-                    negociaciones ni comunicaciones entre las partes, ni se responsabiliza
-                    por la veracidad del contenido publicado.
-                </p>
-                <p>
-                    Ante cualquier contenido inapropiado, engañoso o que infrinja la ley, se
-                    recomienda realizar la denuncia correspondiente ante los organismos
-                    competentes.
-                </p>
-                <p class="terms-accept">
-                    El uso de este sitio implica la aceptación de estos términos.
-                </p>
-            </div>
-        </div>
-    </div>
+    <script src="./app.js"></script>
 </body>
-<script src="./app.js"></script>
